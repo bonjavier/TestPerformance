@@ -1,0 +1,34 @@
+{
+  "HTTP Request petstore" : {
+    "transaction" : "HTTP Request petstore",
+    "sampleCount" : 55614,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 214.45707915273164,
+    "medianResTime" : 190.0,
+    "minResTime" : 179.0,
+    "maxResTime" : 13643.0,
+    "pct1ResTime" : 219.0,
+    "pct2ResTime" : 229.95000000000073,
+    "pct3ResTime" : 616.9900000000016,
+    "throughput" : 92.68196756281122,
+    "receivedKBytesPerSec" : 380.32190204973904,
+    "sentKBytesPerSec" : 20.90774854200136
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 55614,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 214.45707915273164,
+    "medianResTime" : 190.0,
+    "minResTime" : 179.0,
+    "maxResTime" : 13643.0,
+    "pct1ResTime" : 219.0,
+    "pct2ResTime" : 229.95000000000073,
+    "pct3ResTime" : 616.9900000000016,
+    "throughput" : 92.68196756281122,
+    "receivedKBytesPerSec" : 380.32190204973904,
+    "sentKBytesPerSec" : 20.90774854200136
+  }
+}
